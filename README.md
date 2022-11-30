@@ -8,7 +8,7 @@
 - Important Note
 
 # Introduction
-This is a simple Registration and Login system achieved using Python and file handling. 
+This is a simple Registration and Login system achieved using Python and file handling. (Check the **Requirement - Assignment_1.docx** file to know the requirement)
 
 Here new users can register themselves by providing their Email ID and a secure Password. 
 
