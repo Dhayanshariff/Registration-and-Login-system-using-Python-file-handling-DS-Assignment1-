@@ -105,3 +105,5 @@ At any step in the program, if user enters an invalid input other than the menti
 # Important Note
 - Please make sure that all the mentioned the modules are available and they need to be installed if not automatically imported by your IDLE or Compiler.
 - The screen clearing methods (**os.system("cls||clear")**), requires the program to be run on windows, mac or linux based IDLE or compilers.
+- If you still face issue in above mentioned step, you can check the below link and run the program.
+  https://replit.com/@DhayanShariff/Registration-and-Login-system#main.py
