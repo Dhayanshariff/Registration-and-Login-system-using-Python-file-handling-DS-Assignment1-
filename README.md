@@ -103,5 +103,5 @@ At any step in the program, if user enters an invalid input other than the menti
 ![image](https://user-images.githubusercontent.com/118370660/204846722-82c608ac-8f79-4f0f-beea-8c75e3cddd58.png)
 
 # Important Note
-- Please make sure that the modules are available and they need to be installed if not automatically imported by your IDLE or Compiler.
+- Please make sure that all the mentioned the modules are available and they need to be installed if not automatically imported by your IDLE or Compiler.
 - The screen clearing methods (**os.system("cls||clear")**), requires the program to be run on windows, mac or linux based IDLE or compilers.
